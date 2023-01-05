@@ -1,1 +1,1 @@
-# -Mobile-App-iCovid
+# iCovid Mobile Application
